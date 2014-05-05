@@ -5,7 +5,7 @@ class Students
         {name: "Sue", age: 12},
         {name: "Greg", age: 15},
         {name: "Amanda", age: 8},
-        {name: "Steve", age: 7},
+        {name: "Steve", age: 21},
     ]
   end
 end
