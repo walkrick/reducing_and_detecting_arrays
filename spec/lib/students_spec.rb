@@ -11,7 +11,7 @@ describe Students do
         {name: "Sue", age: 12},
         {name: "Greg", age: 15},
         {name: "Amanda", age: 8},
-        {name: "Steve", age: 7},
+        {name: "Steve", age: 21},
     ]
 
     expect(students.all).to match_array expected_students
