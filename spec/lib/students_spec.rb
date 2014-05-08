@@ -17,14 +17,10 @@ describe Students do
   end
 
   it 'can calculate the average age of the class' do
-    students = Students.new
-
     expect(students.average_age).to eq 13
   end
 
   it 'can return a string of student names' do
-    students = Students.new
-
     expect(students.name_string).to eq "Bob Sue Greg Amanda Steve"
   end
 
